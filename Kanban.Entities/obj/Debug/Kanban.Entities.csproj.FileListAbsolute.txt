@@ -1,0 +1,14 @@
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csproj.AssemblyReference.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.Properties.Resources.resources
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csproj.GenerateResource.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\Kanban.Entities.dll.config
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\Kanban.Entities.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\Kanban.Entities.pdb
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.pdb
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\EntityFramework.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\EntityFramework.xml
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csproj.CopyComplete

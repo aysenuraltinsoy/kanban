@@ -1,0 +1,5 @@
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Business\obj\Debug\Kanban.Business.csproj.AssemblyReference.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Business\obj\Debug\Kanban.Business.csproj.SuggestedBindingRedirects.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Business\obj\Debug\Kanban.Business.Properties.Resources.resources
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Business\obj\Debug\Kanban.Business.csproj.GenerateResource.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\kanban\Kanban.Business\obj\Debug\Kanban.Business.csproj.CoreCompileInputs.cache
